@@ -1,4 +1,4 @@
-# product-card.github.io
+# product-card
 Product card created with pure html and css. 
 
 The project was made on the basis of a jpg project with the provided types of fonts, colors and font thickness.
