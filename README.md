@@ -6,3 +6,5 @@ The project was made on the basis of a jpg project with the provided types of fo
 The project was made for the challenge from the frontendmentor.
 
 https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub
+
+Solution: https://rafal-pixel.github.io/product-card/
